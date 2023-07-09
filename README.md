@@ -1,9 +1,13 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+## Status Code 500 - Error Handling
 ![Simulator Screen Recording - iPhone 14 Pro Max - 2023-07-09 at 05 08 05](https://github.com/wagaodev/RN-FindMyCEP-PublicAPI-Axios/assets/66399640/c0ef0f70-8320-452c-9de7-eb10f90b7587)
 
 
 -----------------------------------
+
+## Status Code 200 - Success
 
 ![Simulator Screen Recording - iPhone 14 Pro Max - 2023-07-09 at 05 10 16](https://github.com/wagaodev/RN-FindMyCEP-PublicAPI-Axios/assets/66399640/f8befcc1-3d7c-4699-a9aa-5131f3d3aa99)
 
